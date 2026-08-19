@@ -1,0 +1,638 @@
+17/08/2026 02:12:09 | INFO | GCOM Engine iniciado.
+17/08/2026 02:12:12 | INFO | Iniciando navegador do Portal GCOM.
+17/08/2026 02:12:45 | INFO | Sessão do Portal GCOM salva.
+17/08/2026 02:12:45 | INFO | Status da sessão Portal GCOM: CONNECTED
+17/08/2026 02:13:02 | INFO | Iniciando navegador do Portal GCOM.
+17/08/2026 02:13:02 | INFO | Cookie PHPSESSID restaurado no Portal GCOM.
+17/08/2026 02:17:49 | INFO | GCOM Engine encerrado.
+17/08/2026 02:17:52 | INFO | GCOM Engine iniciado.
+17/08/2026 02:17:53 | INFO | Iniciando navegador do Portal GCOM.
+17/08/2026 02:17:53 | INFO | Cookie PHPSESSID restaurado no Portal GCOM.
+17/08/2026 02:18:14 | INFO | Iniciando navegador do Portal GCOM.
+17/08/2026 02:18:14 | INFO | Cookie PHPSESSID restaurado no Portal GCOM.
+17/08/2026 02:18:18 | INFO | Iniciando navegador do Portal GCOM.
+17/08/2026 02:18:20 | INFO | Cookie PHPSESSID restaurado no Portal GCOM.
+17/08/2026 02:18:32 | INFO | Robô Agendamento | Agenda aberta.
+17/08/2026 02:18:32 | INFO | Robô Agendamento | 268 eventos encontrados.
+17/08/2026 02:18:32 | INFO | Robô Agendamento | Iniciando sincronização de 268 eventos.
+17/08/2026 02:18:32 | INFO | Robô Agendamento | 0 chamados já existem no cache.
+17/08/2026 02:18:32 | INFO | Robô Agendamento | Fase 1/2 | Comparando calendário com cache...
+17/08/2026 02:18:32 | INFO | Robô Agendamento | Comparação concluída | Novos: 268 | Alterados: 0 | Cache: 0
+17/08/2026 02:18:32 | INFO | Robô Agendamento | Fase 2/2 | Lendo detalhes de 268 evento(s)...
+17/08/2026 02:18:32 | INFO | Robô Agendamento | [1/268] NOVO #486222
+17/08/2026 02:18:33 | INFO | Robô Agendamento | #486222 salvo | Cancelado Sem Contato | 27/07/2026 09:00
+17/08/2026 02:18:33 | INFO | Robô Agendamento | [2/268] NOVO #485358
+17/08/2026 02:18:34 | INFO | Robô Agendamento | #485358 salvo | Executado | 27/07/2026 09:00
+17/08/2026 02:18:34 | INFO | Robô Agendamento | [3/268] NOVO #485412
+17/08/2026 02:18:34 | INFO | Robô Agendamento | #485412 salvo | Executado | 27/07/2026 09:00
+17/08/2026 02:18:35 | INFO | Robô Agendamento | [4/268] NOVO #484381
+17/08/2026 02:18:36 | INFO | Robô Agendamento | #484381 salvo | Cancelado Sem Contato | 27/07/2026 09:30
+17/08/2026 02:18:36 | INFO | Robô Agendamento | [5/268] NOVO #485087
+17/08/2026 02:18:36 | INFO | Robô Agendamento | #485087 salvo | Executado | 27/07/2026 10:00
+17/08/2026 02:18:37 | INFO | Robô Agendamento | [6/268] NOVO #484407
+17/08/2026 02:18:37 | INFO | Robô Agendamento | #484407 salvo | Executado | 27/07/2026 10:00
+17/08/2026 02:18:38 | INFO | Robô Agendamento | [7/268] NOVO #484842
+17/08/2026 02:18:39 | INFO | Robô Agendamento | #484842 salvo | Cancelado Sem Contato | 27/07/2026 10:30
+17/08/2026 02:18:39 | INFO | Robô Agendamento | [8/268] NOVO #484857
+17/08/2026 02:18:39 | INFO | Robô Agendamento | #484857 salvo | Cancelado Sem Contato | 27/07/2026 15:00
+17/08/2026 02:18:40 | INFO | Robô Agendamento | [9/268] NOVO #484988
+17/08/2026 02:18:41 | INFO | Robô Agendamento | #484988 salvo | Cancelado Sem Contato | 27/07/2026 15:00
+17/08/2026 02:18:41 | INFO | Robô Agendamento | [10/268] NOVO #485527
+17/08/2026 02:18:41 | INFO | Robô Agendamento | #485527 salvo | Cancelado Sem Contato | 27/07/2026 15:00
+17/08/2026 02:18:42 | INFO | Robô Agendamento | [11/268] NOVO #486373
+17/08/2026 02:18:42 | INFO | Robô Agendamento | #486373 salvo | Executado | 27/07/2026 15:00
+17/08/2026 02:18:43 | INFO | Robô Agendamento | [12/268] NOVO #483781
+17/08/2026 02:18:44 | INFO | Robô Agendamento | #483781 salvo | Cancelado Sem Contato | 27/07/2026 15:30
+17/08/2026 02:18:44 | INFO | Robô Agendamento | [13/268] NOVO #485855
+17/08/2026 02:18:45 | INFO | Robô Agendamento | #485855 salvo | Executado | 27/07/2026 15:30
+17/08/2026 02:18:45 | INFO | Robô Agendamento | [14/268] NOVO #485429
+17/08/2026 02:18:46 | INFO | Robô Agendamento | #485429 salvo | Executado | 27/07/2026 16:00
+17/08/2026 02:18:46 | INFO | Robô Agendamento | [15/268] NOVO #486426
+17/08/2026 02:18:47 | INFO | Robô Agendamento | #486426 salvo | Executado | 27/07/2026 16:00
+17/08/2026 02:18:47 | INFO | Robô Agendamento | [16/268] NOVO #484648
+17/08/2026 02:18:48 | INFO | Robô Agendamento | #484648 salvo | Cancelado Sem Contato | 27/07/2026 16:00
+17/08/2026 02:18:48 | INFO | Robô Agendamento | [17/268] NOVO #486641
+17/08/2026 02:18:49 | INFO | Robô Agendamento | #486641 salvo | Executado | 28/07/2026 08:00
+17/08/2026 02:18:49 | INFO | Robô Agendamento | [18/268] NOVO #486295
+17/08/2026 02:18:50 | INFO | Robô Agendamento | #486295 salvo | Cancelado Sem Contato | 28/07/2026 09:00
+17/08/2026 02:18:50 | INFO | Robô Agendamento | [19/268] NOVO #486590
+17/08/2026 02:18:51 | INFO | Robô Agendamento | #486590 salvo | Cancelado Sem Contato | 28/07/2026 09:00
+17/08/2026 02:18:51 | INFO | Robô Agendamento | [20/268] NOVO #486697
+17/08/2026 02:18:52 | INFO | Robô Agendamento | #486697 salvo | Cancelado Sem Contato | 28/07/2026 09:00
+17/08/2026 02:18:52 | INFO | Robô Agendamento | [21/268] NOVO #486708
+17/08/2026 02:18:53 | INFO | Robô Agendamento | #486708 salvo | Executado | 28/07/2026 10:00
+17/08/2026 02:18:53 | INFO | Robô Agendamento | [22/268] NOVO #485639
+17/08/2026 02:18:54 | INFO | Robô Agendamento | #485639 salvo | Executado | 28/07/2026 10:00
+17/08/2026 02:18:54 | INFO | Robô Agendamento | [23/268] NOVO #485052
+17/08/2026 02:18:55 | INFO | Robô Agendamento | #485052 salvo | Executado | 28/07/2026 10:00
+17/08/2026 02:18:55 | INFO | Robô Agendamento | [24/268] NOVO #485371
+17/08/2026 02:18:56 | INFO | Robô Agendamento | #485371 salvo | Cancelado Sem Contato | 28/07/2026 10:30
+17/08/2026 02:18:56 | INFO | Robô Agendamento | [25/268] NOVO #486875
+17/08/2026 02:18:57 | INFO | Robô Agendamento | #486875 salvo | Executado | 28/07/2026 10:30
+17/08/2026 02:18:57 | INFO | Robô Agendamento | [26/268] NOVO #486567
+17/08/2026 02:18:58 | INFO | Robô Agendamento | #486567 salvo | Cancelado Sem Contato | 28/07/2026 15:00
+17/08/2026 02:18:58 | INFO | Robô Agendamento | [27/268] NOVO #486948
+17/08/2026 02:18:59 | INFO | Robô Agendamento | #486948 salvo | Executado | 28/07/2026 15:00
+17/08/2026 02:18:59 | INFO | Robô Agendamento | [28/268] NOVO #486493
+17/08/2026 02:19:00 | INFO | Robô Agendamento | #486493 salvo | Cancelado Sem Contato | 28/07/2026 16:00
+17/08/2026 02:19:00 | INFO | Robô Agendamento | [29/268] NOVO #486786
+17/08/2026 02:19:01 | INFO | Robô Agendamento | #486786 salvo | Cancelado Sem Contato | 28/07/2026 16:00
+17/08/2026 02:19:01 | INFO | Robô Agendamento | [30/268] NOVO #487100
+17/08/2026 02:19:02 | INFO | Robô Agendamento | #487100 salvo | Executado | 28/07/2026 16:00
+17/08/2026 02:19:02 | INFO | Robô Agendamento | [31/268] NOVO #487183
+17/08/2026 02:19:03 | INFO | Robô Agendamento | #487183 salvo | Executado | 28/07/2026 16:00
+17/08/2026 02:19:04 | INFO | Robô Agendamento | [32/268] NOVO #486889
+17/08/2026 02:19:04 | INFO | Robô Agendamento | #486889 salvo | Executado | 29/07/2026 08:00
+17/08/2026 02:19:04 | INFO | Robô Agendamento | [33/268] NOVO #486935
+17/08/2026 02:19:05 | INFO | Robô Agendamento | #486935 salvo | Cancelado Sem Contato | 29/07/2026 08:00
+17/08/2026 02:19:05 | INFO | Robô Agendamento | [34/268] NOVO #486975
+17/08/2026 02:19:06 | INFO | Robô Agendamento | #486975 salvo | Executado | 29/07/2026 08:00
+17/08/2026 02:19:06 | INFO | Robô Agendamento | [35/268] NOVO #486965
+17/08/2026 02:19:07 | INFO | Robô Agendamento | #486965 salvo | Executado | 29/07/2026 08:30
+17/08/2026 02:19:07 | INFO | Robô Agendamento | [36/268] NOVO #486958
+17/08/2026 02:19:08 | INFO | Robô Agendamento | #486958 salvo | Executado | 29/07/2026 09:00
+17/08/2026 02:19:08 | INFO | Robô Agendamento | [37/268] NOVO #486926
+17/08/2026 02:19:09 | INFO | Robô Agendamento | #486926 salvo | Cancelado Sem Contato | 29/07/2026 09:00
+17/08/2026 02:19:09 | INFO | Robô Agendamento | [38/268] NOVO #486905
+17/08/2026 02:19:10 | INFO | Robô Agendamento | #486905 salvo | Executado | 29/07/2026 09:30
+17/08/2026 02:19:10 | INFO | Robô Agendamento | [39/268] NOVO #486984
+17/08/2026 02:19:10 | INFO | Robô Agendamento | #486984 salvo | Cancelado Sem Contato | 29/07/2026 09:30
+17/08/2026 02:19:11 | INFO | Robô Agendamento | [40/268] NOVO #484682
+17/08/2026 02:19:11 | INFO | Robô Agendamento | #484682 salvo | Executado | 29/07/2026 10:00
+17/08/2026 02:19:12 | INFO | Robô Agendamento | [41/268] NOVO #485843
+17/08/2026 02:19:13 | INFO | Robô Agendamento | #485843 salvo | Executado | 29/07/2026 10:00
+17/08/2026 02:19:13 | INFO | Robô Agendamento | [42/268] NOVO #487038
+17/08/2026 02:19:14 | INFO | Robô Agendamento | #487038 salvo | Executado | 29/07/2026 10:00
+17/08/2026 02:19:14 | INFO | Robô Agendamento | [43/268] NOVO #486379
+17/08/2026 02:19:15 | INFO | Robô Agendamento | #486379 salvo | Executado | 29/07/2026 15:00
+17/08/2026 02:19:15 | INFO | Robô Agendamento | [44/268] NOVO #487523
+17/08/2026 02:19:16 | INFO | Robô Agendamento | #487523 salvo | Executado | 29/07/2026 15:00
+17/08/2026 02:19:16 | INFO | Robô Agendamento | [45/268] NOVO #487541
+17/08/2026 02:19:17 | INFO | Robô Agendamento | #487541 salvo | Cancelado Sem Contato | 29/07/2026 15:00
+17/08/2026 02:19:17 | INFO | Robô Agendamento | [46/268] NOVO #486997
+17/08/2026 02:19:18 | INFO | Robô Agendamento | #486997 salvo | Cancelado Sem Contato | 29/07/2026 15:00
+17/08/2026 02:19:18 | INFO | Robô Agendamento | [47/268] NOVO #486746
+17/08/2026 02:19:19 | INFO | Robô Agendamento | #486746 salvo | Executado | 29/07/2026 15:30
+17/08/2026 02:19:19 | INFO | Robô Agendamento | [48/268] NOVO #483494
+17/08/2026 02:19:20 | INFO | Robô Agendamento | #483494 salvo | Executado | 29/07/2026 16:00
+17/08/2026 02:19:20 | INFO | Robô Agendamento | [49/268] NOVO #487853
+17/08/2026 02:19:21 | INFO | Robô Agendamento | #487853 salvo | Cancelado Sem Contato | 29/07/2026 16:00
+17/08/2026 02:19:21 | INFO | Robô Agendamento | [50/268] NOVO #487544
+17/08/2026 02:19:22 | INFO | Robô Agendamento | #487544 salvo | Executado | 29/07/2026 16:00
+17/08/2026 02:19:22 | INFO | Robô Agendamento | [51/268] NOVO #487023
+17/08/2026 02:19:23 | INFO | Robô Agendamento | #487023 salvo | Executado | 29/07/2026 16:00
+17/08/2026 02:19:23 | INFO | Robô Agendamento | [52/268] NOVO #487031
+17/08/2026 02:19:24 | INFO | Robô Agendamento | #487031 salvo | Cancelado Sem Contato | 29/07/2026 16:00
+17/08/2026 02:19:24 | INFO | Robô Agendamento | [53/268] NOVO #486989
+17/08/2026 02:19:25 | INFO | Robô Agendamento | #486989 salvo | Cancelado Sem Contato | 30/07/2026 09:00
+17/08/2026 02:19:25 | INFO | Robô Agendamento | [54/268] NOVO #487178
+17/08/2026 02:19:26 | INFO | Robô Agendamento | #487178 salvo | Cancelado Sem Contato | 30/07/2026 09:00
+17/08/2026 02:19:26 | INFO | Robô Agendamento | [55/268] NOVO #488196
+17/08/2026 02:19:27 | INFO | Robô Agendamento | #488196 salvo | Executado | 30/07/2026 09:00
+17/08/2026 02:19:27 | INFO | Robô Agendamento | [56/268] NOVO #487399
+17/08/2026 02:19:28 | INFO | Robô Agendamento | #487399 salvo | Cancelado Sem Contato | 30/07/2026 09:00
+17/08/2026 02:19:28 | INFO | Robô Agendamento | [57/268] NOVO #487403
+17/08/2026 02:19:29 | INFO | Robô Agendamento | #487403 salvo | Cancelado Sem Contato | 30/07/2026 09:30
+17/08/2026 02:19:29 | INFO | Robô Agendamento | [58/268] NOVO #486402
+17/08/2026 02:19:30 | INFO | Robô Agendamento | #486402 salvo | Executado | 30/07/2026 10:00
+17/08/2026 02:19:30 | INFO | Robô Agendamento | [59/268] NOVO #486943
+17/08/2026 02:19:31 | INFO | Robô Agendamento | #486943 salvo | Cancelado Sem Contato | 30/07/2026 10:00
+17/08/2026 02:19:31 | INFO | Robô Agendamento | [60/268] NOVO #488088
+17/08/2026 02:19:31 | INFO | Robô Agendamento | #488088 salvo | Executado | 30/07/2026 15:00
+17/08/2026 02:19:32 | INFO | Robô Agendamento | [61/268] NOVO #486704
+17/08/2026 02:19:32 | INFO | Robô Agendamento | #486704 salvo | Cancelado Sem Contato | 30/07/2026 15:00
+17/08/2026 02:19:33 | INFO | Robô Agendamento | [62/268] NOVO #487687
+17/08/2026 02:19:33 | INFO | Robô Agendamento | #487687 salvo | Executado | 30/07/2026 15:00
+17/08/2026 02:19:34 | INFO | Robô Agendamento | [63/268] NOVO #488271
+17/08/2026 02:19:34 | INFO | Robô Agendamento | #488271 salvo | Executado | 30/07/2026 15:00
+17/08/2026 02:19:35 | INFO | Robô Agendamento | [64/268] NOVO #488333
+17/08/2026 02:19:35 | INFO | Robô Agendamento | #488333 salvo | Executado | 30/07/2026 15:30
+17/08/2026 02:19:36 | INFO | Robô Agendamento | [65/268] NOVO #488189
+17/08/2026 02:19:36 | INFO | Robô Agendamento | #488189 salvo | Cancelado Sem Contato | 30/07/2026 16:00
+17/08/2026 02:19:37 | INFO | Robô Agendamento | [66/268] NOVO #487763
+17/08/2026 02:19:37 | INFO | Robô Agendamento | #487763 salvo | Executado | 30/07/2026 16:00
+17/08/2026 02:19:37 | INFO | Robô Agendamento | [67/268] NOVO #488025
+17/08/2026 02:19:38 | INFO | Robô Agendamento | #488025 salvo | Executado | 30/07/2026 16:00
+17/08/2026 02:19:39 | INFO | Robô Agendamento | [68/268] NOVO #488262
+17/08/2026 02:19:39 | INFO | Robô Agendamento | #488262 salvo | Executado | 30/07/2026 16:00
+17/08/2026 02:19:40 | INFO | Robô Agendamento | [69/268] NOVO #488454
+17/08/2026 02:19:40 | INFO | Robô Agendamento | #488454 salvo | Executado | 30/07/2026 16:00
+17/08/2026 02:19:41 | INFO | Robô Agendamento | [70/268] NOVO #488735
+17/08/2026 02:19:41 | INFO | Robô Agendamento | #488735 salvo | Executado | 31/07/2026 08:00
+17/08/2026 02:19:42 | INFO | Robô Agendamento | [71/268] NOVO #488778
+17/08/2026 02:19:43 | INFO | Robô Agendamento | #488778 salvo | Cancelado Sem Contato | 31/07/2026 09:00
+17/08/2026 02:19:43 | INFO | Robô Agendamento | [72/268] NOVO #487871
+17/08/2026 02:19:43 | INFO | Robô Agendamento | #487871 salvo | Cancelado Sem Contato | 31/07/2026 10:00
+17/08/2026 02:19:44 | INFO | Robô Agendamento | [73/268] NOVO #488884
+17/08/2026 02:19:44 | INFO | Robô Agendamento | #488884 salvo | Cancelado Sem Contato | 31/07/2026 15:00
+17/08/2026 02:19:44 | INFO | Robô Agendamento | [74/268] NOVO #488150
+17/08/2026 02:19:45 | INFO | Robô Agendamento | #488150 salvo | Executado | 31/07/2026 16:00
+17/08/2026 02:19:45 | INFO | Robô Agendamento | [75/268] NOVO #486465
+17/08/2026 02:19:46 | INFO | Robô Agendamento | #486465 salvo | Executado | 03/08/2026 08:00
+17/08/2026 02:19:47 | INFO | Robô Agendamento | [76/268] NOVO #488642
+17/08/2026 02:19:48 | INFO | Robô Agendamento | #488642 salvo | Cancelado Sem Contato | 03/08/2026 08:00
+17/08/2026 02:19:48 | INFO | Robô Agendamento | [77/268] NOVO #488512
+17/08/2026 02:19:49 | INFO | Robô Agendamento | #488512 salvo | Executado | 03/08/2026 09:00
+17/08/2026 02:19:49 | INFO | Robô Agendamento | [78/268] NOVO #488092
+17/08/2026 02:19:50 | INFO | Robô Agendamento | #488092 salvo | Executado | 03/08/2026 09:00
+17/08/2026 02:19:50 | INFO | Robô Agendamento | [79/268] NOVO #482706
+17/08/2026 02:19:51 | INFO | Robô Agendamento | #482706 salvo | Executado | 03/08/2026 09:30
+17/08/2026 02:19:52 | INFO | Robô Agendamento | [80/268] NOVO #488984
+17/08/2026 02:19:53 | INFO | Robô Agendamento | #488984 salvo | Executado | 03/08/2026 09:30
+17/08/2026 02:19:53 | INFO | Robô Agendamento | [81/268] NOVO #488997
+17/08/2026 02:19:55 | INFO | Robô Agendamento | #488997 salvo | Cancelado Sem Contato | 03/08/2026 09:30
+17/08/2026 02:19:55 | INFO | Robô Agendamento | [82/268] NOVO #489042
+17/08/2026 02:19:56 | INFO | Robô Agendamento | #489042 salvo | Cancelado Sem Contato | 03/08/2026 09:30
+17/08/2026 02:19:56 | INFO | Robô Agendamento | [83/268] NOVO #489259
+17/08/2026 02:19:57 | INFO | Robô Agendamento | #489259 salvo | Cancelado Sem Contato | 03/08/2026 09:40
+17/08/2026 02:19:57 | INFO | Robô Agendamento | [84/268] NOVO #490285
+17/08/2026 02:19:58 | INFO | Robô Agendamento | #490285 salvo | Executado | 03/08/2026 10:00
+17/08/2026 02:19:58 | INFO | Robô Agendamento | [85/268] NOVO #487242
+17/08/2026 02:19:59 | INFO | Robô Agendamento | #487242 salvo | Executado | 03/08/2026 10:00
+17/08/2026 02:19:59 | INFO | Robô Agendamento | [86/268] NOVO #488510
+17/08/2026 02:20:00 | INFO | Robô Agendamento | #488510 salvo | Executado | 03/08/2026 10:00
+17/08/2026 02:20:00 | INFO | Robô Agendamento | [87/268] NOVO #489132
+17/08/2026 02:20:01 | INFO | Robô Agendamento | #489132 salvo | Executado | 03/08/2026 10:00
+17/08/2026 02:20:01 | INFO | Robô Agendamento | [88/268] NOVO #488501
+17/08/2026 02:20:02 | INFO | Robô Agendamento | #488501 salvo | Executado | 03/08/2026 10:00
+17/08/2026 02:20:02 | INFO | Robô Agendamento | [89/268] NOVO #488248
+17/08/2026 02:20:04 | INFO | Robô Agendamento | #488248 salvo | Executado | 03/08/2026 10:30
+17/08/2026 02:20:04 | INFO | Robô Agendamento | [90/268] NOVO #488892
+17/08/2026 02:20:06 | INFO | Robô Agendamento | #488892 salvo | Cancelado Sem Contato | 03/08/2026 10:30
+17/08/2026 02:20:07 | INFO | Robô Agendamento | [91/268] NOVO #488574
+17/08/2026 02:20:08 | INFO | Robô Agendamento | #488574 salvo | Executado | 03/08/2026 15:00
+17/08/2026 02:20:09 | INFO | Robô Agendamento | [92/268] NOVO #488978
+17/08/2026 02:20:11 | INFO | Robô Agendamento | #488978 salvo | Cancelado Sem Contato | 03/08/2026 15:00
+17/08/2026 02:20:11 | INFO | Robô Agendamento | [93/268] NOVO #488910
+17/08/2026 02:20:12 | INFO | Robô Agendamento | #488910 salvo | Executado | 03/08/2026 15:00
+17/08/2026 02:20:12 | INFO | Robô Agendamento | [94/268] NOVO #489381
+17/08/2026 02:20:14 | INFO | Robô Agendamento | #489381 salvo | Cancelado Sem Contato | 03/08/2026 15:00
+17/08/2026 02:20:14 | INFO | Robô Agendamento | [95/268] NOVO #489815
+17/08/2026 02:20:16 | INFO | Robô Agendamento | #489815 salvo | Executado | 03/08/2026 15:30
+17/08/2026 02:20:16 | INFO | Robô Agendamento | [96/268] NOVO #490143
+17/08/2026 02:20:18 | INFO | Robô Agendamento | #490143 salvo | Executado | 03/08/2026 16:00
+17/08/2026 02:20:18 | INFO | Robô Agendamento | [97/268] NOVO #490943
+17/08/2026 02:20:20 | INFO | Robô Agendamento | #490943 salvo | Executado | 03/08/2026 16:00
+17/08/2026 02:20:21 | INFO | Robô Agendamento | [98/268] NOVO #488708
+17/08/2026 02:20:22 | INFO | Robô Agendamento | #488708 salvo | Cancelado Sem Contato | 03/08/2026 16:00
+17/08/2026 02:20:23 | INFO | Robô Agendamento | [99/268] NOVO #488932
+17/08/2026 02:20:24 | INFO | Robô Agendamento | #488932 salvo | Executado | 03/08/2026 16:00
+17/08/2026 02:20:25 | INFO | Robô Agendamento | [100/268] NOVO #487705
+17/08/2026 02:20:26 | INFO | Robô Agendamento | #487705 salvo | Cancelado Sem Contato | 04/08/2026 08:00
+17/08/2026 02:20:26 | INFO | Robô Agendamento | [101/268] NOVO #486274
+17/08/2026 02:20:26 | INFO | Robô Agendamento | #486274 salvo | Executado | 04/08/2026 08:00
+17/08/2026 02:20:27 | INFO | Robô Agendamento | [102/268] NOVO #490714
+17/08/2026 02:20:28 | INFO | Robô Agendamento | #490714 salvo | Executado | 04/08/2026 08:00
+17/08/2026 02:20:28 | INFO | Robô Agendamento | [103/268] NOVO #489826
+17/08/2026 02:20:28 | INFO | Robô Agendamento | #489826 salvo | Cancelado Sem Contato | 04/08/2026 08:30
+17/08/2026 02:20:29 | INFO | Robô Agendamento | [104/268] NOVO #488453
+17/08/2026 02:20:29 | INFO | Robô Agendamento | #488453 salvo | Cancelado Sem Contato | 04/08/2026 09:00
+17/08/2026 02:20:30 | INFO | Robô Agendamento | [105/268] NOVO #489561
+17/08/2026 02:20:31 | INFO | Robô Agendamento | #489561 salvo | Cancelado Sem Contato | 04/08/2026 09:00
+17/08/2026 02:20:31 | INFO | Robô Agendamento | [106/268] NOVO #489592
+17/08/2026 02:20:33 | INFO | Robô Agendamento | #489592 salvo | Executado | 04/08/2026 09:00
+17/08/2026 02:20:33 | INFO | Robô Agendamento | [107/268] NOVO #489974
+17/08/2026 02:20:34 | INFO | Robô Agendamento | #489974 salvo | Cancelado Sem Contato | 04/08/2026 09:00
+17/08/2026 02:20:34 | INFO | Robô Agendamento | [108/268] NOVO #490837
+17/08/2026 02:20:35 | INFO | Robô Agendamento | #490837 salvo | Executado | 04/08/2026 09:30
+17/08/2026 02:20:35 | INFO | Robô Agendamento | [109/268] NOVO #490664
+17/08/2026 02:20:36 | INFO | Robô Agendamento | #490664 salvo | Cancelado Sem Contato | 04/08/2026 10:00
+17/08/2026 02:20:36 | INFO | Robô Agendamento | [110/268] NOVO #491061
+17/08/2026 02:20:37 | INFO | Robô Agendamento | #491061 salvo | Executado | 04/08/2026 10:00
+17/08/2026 02:20:37 | INFO | Robô Agendamento | [111/268] NOVO #489082
+17/08/2026 02:20:38 | INFO | Robô Agendamento | #489082 salvo | Executado | 04/08/2026 10:00
+17/08/2026 02:20:39 | INFO | Robô Agendamento | [112/268] NOVO #489065
+17/08/2026 02:20:39 | INFO | Robô Agendamento | #489065 salvo | Cancelado Sem Contato | 04/08/2026 10:30
+17/08/2026 02:20:40 | INFO | Robô Agendamento | [113/268] NOVO #490827
+17/08/2026 02:20:42 | INFO | Robô Agendamento | #490827 salvo | Executado | 04/08/2026 15:00
+17/08/2026 02:20:42 | INFO | Robô Agendamento | [114/268] NOVO #491135
+17/08/2026 02:20:44 | INFO | Robô Agendamento | #491135 salvo | Executado | 04/08/2026 15:00
+17/08/2026 02:20:44 | INFO | Robô Agendamento | [115/268] NOVO #491105
+17/08/2026 02:20:46 | INFO | Robô Agendamento | #491105 salvo | Cancelado Sem Contato | 04/08/2026 15:00
+17/08/2026 02:20:46 | INFO | Robô Agendamento | [116/268] NOVO #491214
+17/08/2026 02:20:48 | INFO | Robô Agendamento | #491214 salvo | Executado | 04/08/2026 15:00
+17/08/2026 02:20:48 | INFO | Robô Agendamento | [117/268] NOVO #491050
+17/08/2026 02:20:50 | INFO | Robô Agendamento | #491050 salvo | Executado | 04/08/2026 16:00
+17/08/2026 02:20:50 | INFO | Robô Agendamento | [118/268] NOVO #491428
+17/08/2026 02:20:51 | INFO | Robô Agendamento | #491428 salvo | Executado | 04/08/2026 16:00
+17/08/2026 02:20:51 | INFO | Robô Agendamento | [119/268] NOVO #491451
+17/08/2026 02:20:52 | INFO | Robô Agendamento | #491451 salvo | Cancelado Sem Contato | 05/08/2026 09:00
+17/08/2026 02:20:52 | INFO | Robô Agendamento | [120/268] NOVO #491873
+17/08/2026 02:20:53 | INFO | Robô Agendamento | #491873 salvo | Executado | 05/08/2026 09:00
+17/08/2026 02:20:54 | INFO | Robô Agendamento | [121/268] NOVO #491366
+17/08/2026 02:20:54 | INFO | Robô Agendamento | #491366 salvo | Cancelado Sem Contato | 05/08/2026 09:00
+17/08/2026 02:20:54 | INFO | Robô Agendamento | [122/268] NOVO #488651
+17/08/2026 02:20:55 | INFO | Robô Agendamento | #488651 salvo | Executado | 05/08/2026 09:00
+17/08/2026 02:20:56 | INFO | Robô Agendamento | [123/268] NOVO #491243
+17/08/2026 02:20:57 | INFO | Robô Agendamento | #491243 salvo | Executado | 05/08/2026 10:00
+17/08/2026 02:20:57 | INFO | Robô Agendamento | [124/268] NOVO #491582
+17/08/2026 02:20:59 | INFO | Robô Agendamento | #491582 salvo | Cancelado Sem Contato | 05/08/2026 10:00
+17/08/2026 02:20:59 | INFO | Robô Agendamento | [125/268] NOVO #491632
+17/08/2026 02:21:00 | INFO | Robô Agendamento | #491632 salvo | Executado | 05/08/2026 10:00
+17/08/2026 02:21:00 | INFO | Robô Agendamento | [126/268] NOVO #491706
+17/08/2026 02:21:01 | INFO | Robô Agendamento | #491706 salvo | Executado | 05/08/2026 10:30
+17/08/2026 02:21:02 | INFO | Robô Agendamento | [127/268] NOVO #491870
+17/08/2026 02:21:02 | INFO | Robô Agendamento | #491870 salvo | Cancelado Sem Contato | 05/08/2026 10:30
+17/08/2026 02:21:03 | INFO | Robô Agendamento | [128/268] NOVO #488200
+17/08/2026 02:21:03 | INFO | Robô Agendamento | #488200 salvo | Cancelado Sem Contato | 05/08/2026 10:30
+17/08/2026 02:21:04 | INFO | Robô Agendamento | [129/268] NOVO #490958
+17/08/2026 02:21:05 | INFO | Robô Agendamento | #490958 salvo | Cancelado Sem Contato | 05/08/2026 15:00
+17/08/2026 02:21:05 | INFO | Robô Agendamento | [130/268] NOVO #487723
+17/08/2026 02:21:06 | INFO | Robô Agendamento | #487723 salvo | Executado | 05/08/2026 15:00
+17/08/2026 02:21:06 | INFO | Robô Agendamento | [131/268] NOVO #492326
+17/08/2026 02:21:07 | INFO | Robô Agendamento | #492326 salvo | Cancelado Sem Contato | 05/08/2026 15:00
+17/08/2026 02:21:07 | INFO | Robô Agendamento | [132/268] NOVO #491747
+17/08/2026 02:21:09 | INFO | Robô Agendamento | #491747 salvo | Executado | 05/08/2026 16:00
+17/08/2026 02:21:09 | INFO | Robô Agendamento | [133/268] NOVO #492006
+17/08/2026 02:21:13 | INFO | Robô Agendamento | #492006 salvo | Executado | 05/08/2026 16:00
+17/08/2026 02:21:13 | INFO | Robô Agendamento | [134/268] NOVO #492155
+17/08/2026 02:21:14 | INFO | Robô Agendamento | #492155 salvo | Executado | 06/08/2026 08:00
+17/08/2026 02:21:14 | INFO | Robô Agendamento | [135/268] NOVO #492321
+17/08/2026 02:21:15 | INFO | Robô Agendamento | #492321 salvo | Executado | 06/08/2026 08:00
+17/08/2026 02:21:15 | INFO | Robô Agendamento | [136/268] NOVO #492453
+17/08/2026 02:21:16 | INFO | Robô Agendamento | #492453 salvo | Cancelado Sem Contato | 06/08/2026 08:00
+17/08/2026 02:21:16 | INFO | Robô Agendamento | [137/268] NOVO #491465
+17/08/2026 02:21:17 | INFO | Robô Agendamento | #491465 salvo | Executado | 06/08/2026 09:00
+17/08/2026 02:21:17 | INFO | Robô Agendamento | [138/268] NOVO #492040
+17/08/2026 02:21:18 | INFO | Robô Agendamento | #492040 salvo | Cancelado Sem Contato | 06/08/2026 09:00
+17/08/2026 02:21:18 | INFO | Robô Agendamento | [139/268] NOVO #492067
+17/08/2026 02:21:20 | INFO | Robô Agendamento | #492067 salvo | Executado | 06/08/2026 09:00
+17/08/2026 02:21:20 | INFO | Robô Agendamento | [140/268] NOVO #492279
+17/08/2026 02:21:21 | INFO | Robô Agendamento | #492279 salvo | Executado | 06/08/2026 10:00
+17/08/2026 02:21:21 | INFO | Robô Agendamento | [141/268] NOVO #492231
+17/08/2026 02:21:22 | INFO | Robô Agendamento | #492231 salvo | Cancelado Sem Contato | 06/08/2026 10:00
+17/08/2026 02:21:22 | INFO | Robô Agendamento | [142/268] NOVO #491773
+17/08/2026 02:21:23 | INFO | Robô Agendamento | #491773 salvo | Cancelado Sem Contato | 06/08/2026 10:00
+17/08/2026 02:21:24 | INFO | Robô Agendamento | [143/268] NOVO #492202
+17/08/2026 02:21:24 | INFO | Robô Agendamento | #492202 salvo | Cancelado Sem Contato | 06/08/2026 10:00
+17/08/2026 02:21:25 | INFO | Robô Agendamento | [144/268] NOVO #492628
+17/08/2026 02:21:26 | INFO | Robô Agendamento | #492628 salvo | Executado | 06/08/2026 10:00
+17/08/2026 02:21:26 | INFO | Robô Agendamento | [145/268] NOVO #492663
+17/08/2026 02:21:27 | INFO | Robô Agendamento | #492663 salvo | Cancelado Sem Contato | 06/08/2026 10:00
+17/08/2026 02:21:27 | INFO | Robô Agendamento | [146/268] NOVO #492364
+17/08/2026 02:21:28 | INFO | Robô Agendamento | #492364 salvo | Executado | 06/08/2026 10:30
+17/08/2026 02:21:28 | INFO | Robô Agendamento | [147/268] NOVO #492557
+17/08/2026 02:21:30 | INFO | Robô Agendamento | #492557 salvo | Executado | 06/08/2026 15:00
+17/08/2026 02:21:30 | INFO | Robô Agendamento | [148/268] NOVO #492590
+17/08/2026 02:21:31 | INFO | Robô Agendamento | #492590 salvo | Executado | 06/08/2026 15:00
+17/08/2026 02:21:32 | INFO | Robô Agendamento | [149/268] NOVO #492244
+17/08/2026 02:21:33 | INFO | Robô Agendamento | #492244 salvo | Cancelado Sem Contato | 06/08/2026 15:30
+17/08/2026 02:21:33 | INFO | Robô Agendamento | [150/268] NOVO #492436
+17/08/2026 02:21:35 | INFO | Robô Agendamento | #492436 salvo | Cancelado Sem Contato | 06/08/2026 15:30
+17/08/2026 02:21:35 | INFO | Robô Agendamento | [151/268] NOVO #492693
+17/08/2026 02:21:37 | INFO | Robô Agendamento | #492693 salvo | Executado | 06/08/2026 16:00
+17/08/2026 02:21:37 | INFO | Robô Agendamento | [152/268] NOVO #492521
+17/08/2026 02:21:39 | INFO | Robô Agendamento | #492521 salvo | Cancelado Sem Contato | 06/08/2026 16:00
+17/08/2026 02:21:39 | INFO | Robô Agendamento | [153/268] NOVO #492730
+17/08/2026 02:21:41 | INFO | Robô Agendamento | #492730 salvo | Em Execução | 06/08/2026 16:00
+17/08/2026 02:21:41 | INFO | Robô Agendamento | [154/268] NOVO #492750
+17/08/2026 02:21:43 | INFO | Robô Agendamento | #492750 salvo | Cancelado Sem Contato | 06/08/2026 16:00
+17/08/2026 02:21:43 | INFO | Robô Agendamento | [155/268] NOVO #487199
+17/08/2026 02:21:45 | INFO | Robô Agendamento | #487199 salvo | Executado | 06/08/2026 16:00
+17/08/2026 02:21:46 | INFO | Robô Agendamento | [156/268] NOVO #492719
+17/08/2026 02:21:47 | INFO | Robô Agendamento | #492719 salvo | Executado | 06/08/2026 16:00
+17/08/2026 02:21:48 | INFO | Robô Agendamento | [157/268] NOVO #492894
+17/08/2026 02:21:49 | INFO | Robô Agendamento | #492894 salvo | Executado | 07/08/2026 10:00
+17/08/2026 02:21:49 | INFO | Robô Agendamento | [158/268] NOVO #493115
+17/08/2026 02:21:49 | INFO | Robô Agendamento | #493115 salvo | Executado | 07/08/2026 16:00
+17/08/2026 02:21:50 | INFO | Robô Agendamento | [159/268] NOVO #492405
+17/08/2026 02:21:52 | INFO | Robô Agendamento | #492405 salvo | Executado | 10/08/2026 08:00
+17/08/2026 02:21:52 | INFO | Robô Agendamento | [160/268] NOVO #493034
+17/08/2026 02:21:53 | INFO | Robô Agendamento | #493034 salvo | Cancelado Sem Contato | 10/08/2026 09:00
+17/08/2026 02:21:53 | INFO | Robô Agendamento | [161/268] NOVO #493012
+17/08/2026 02:21:55 | INFO | Robô Agendamento | #493012 salvo | Executado | 10/08/2026 09:00
+17/08/2026 02:21:55 | INFO | Robô Agendamento | [162/268] NOVO #493095
+17/08/2026 02:21:57 | INFO | Robô Agendamento | #493095 salvo | Cancelado Sem Contato | 10/08/2026 09:00
+17/08/2026 02:21:57 | INFO | Robô Agendamento | [163/268] NOVO #490896
+17/08/2026 02:21:59 | INFO | Robô Agendamento | #490896 salvo | Executado | 10/08/2026 09:00
+17/08/2026 02:21:59 | INFO | Robô Agendamento | [164/268] NOVO #493043
+17/08/2026 02:22:01 | INFO | Robô Agendamento | #493043 salvo | Executado | 10/08/2026 09:00
+17/08/2026 02:22:01 | INFO | Robô Agendamento | [165/268] NOVO #493919
+17/08/2026 02:22:03 | INFO | Robô Agendamento | #493919 salvo | Executado | 10/08/2026 09:30
+17/08/2026 02:22:04 | INFO | Robô Agendamento | [166/268] NOVO #492806
+17/08/2026 02:22:05 | INFO | Robô Agendamento | #492806 salvo | Cancelado Sem Contato | 10/08/2026 10:00
+17/08/2026 02:22:06 | INFO | Robô Agendamento | [167/268] NOVO #493303
+17/08/2026 02:22:08 | INFO | Robô Agendamento | #493303 salvo | Executado | 10/08/2026 10:00
+17/08/2026 02:22:08 | INFO | Robô Agendamento | [168/268] NOVO #491426
+17/08/2026 02:22:10 | INFO | Robô Agendamento | #491426 salvo | Executado | 10/08/2026 10:00
+17/08/2026 02:22:10 | INFO | Robô Agendamento | [169/268] NOVO #493113
+17/08/2026 02:22:11 | INFO | Robô Agendamento | #493113 salvo | Executado | 10/08/2026 10:00
+17/08/2026 02:22:12 | INFO | Robô Agendamento | [170/268] NOVO #493029
+17/08/2026 02:22:13 | INFO | Robô Agendamento | #493029 salvo | Executado | 10/08/2026 10:30
+17/08/2026 02:22:13 | INFO | Robô Agendamento | [171/268] NOVO #494505
+17/08/2026 02:22:14 | INFO | Robô Agendamento | #494505 salvo | Cancelado Sem Contato | 10/08/2026 15:00
+17/08/2026 02:22:14 | INFO | Robô Agendamento | [172/268] NOVO #493209
+17/08/2026 02:22:16 | INFO | Robô Agendamento | #493209 salvo | Executado | 10/08/2026 15:00
+17/08/2026 02:22:16 | INFO | Robô Agendamento | [173/268] NOVO #494594
+17/08/2026 02:22:17 | INFO | Robô Agendamento | #494594 salvo | Cancelado Suporte | 10/08/2026 15:00
+17/08/2026 02:22:17 | INFO | Robô Agendamento | [174/268] NOVO #494598
+17/08/2026 02:22:18 | INFO | Robô Agendamento | #494598 salvo | Executado | 10/08/2026 15:00
+17/08/2026 02:22:18 | INFO | Robô Agendamento | [175/268] NOVO #491824
+17/08/2026 02:22:19 | INFO | Robô Agendamento | #491824 salvo | Cancelado Sem Contato | 10/08/2026 15:00
+17/08/2026 02:22:19 | INFO | Robô Agendamento | [176/268] NOVO #493125
+17/08/2026 02:22:20 | INFO | Robô Agendamento | #493125 salvo | Cancelado Sem Contato | 10/08/2026 15:30
+17/08/2026 02:22:20 | INFO | Robô Agendamento | [177/268] NOVO #493081
+17/08/2026 02:22:21 | INFO | Robô Agendamento | #493081 salvo | Cancelado Sem Contato | 10/08/2026 15:30
+17/08/2026 02:22:21 | INFO | Robô Agendamento | [178/268] NOVO #494689
+17/08/2026 02:22:22 | INFO | Robô Agendamento | #494689 salvo | Executado | 10/08/2026 16:00
+17/08/2026 02:22:22 | INFO | Robô Agendamento | [179/268] NOVO #492982
+17/08/2026 02:22:23 | INFO | Robô Agendamento | #492982 salvo | Executado | 10/08/2026 16:00
+17/08/2026 02:22:23 | INFO | Robô Agendamento | [180/268] NOVO #493220
+17/08/2026 02:22:24 | INFO | Robô Agendamento | #493220 salvo | Cancelado Sem Contato | 10/08/2026 16:00
+17/08/2026 02:22:24 | INFO | Robô Agendamento | [181/268] NOVO #492223
+17/08/2026 02:22:25 | INFO | Robô Agendamento | #492223 salvo | Cancelado Sem Contato | 11/08/2026 08:00
+17/08/2026 02:22:25 | INFO | Robô Agendamento | [182/268] NOVO #494883
+17/08/2026 02:22:27 | INFO | Robô Agendamento | #494883 salvo | Executado | 11/08/2026 08:00
+17/08/2026 02:22:27 | INFO | Robô Agendamento | [183/268] NOVO #492698
+17/08/2026 02:22:29 | INFO | Robô Agendamento | #492698 salvo | Executado | 11/08/2026 09:00
+17/08/2026 02:22:30 | INFO | Robô Agendamento | [184/268] NOVO #494539
+17/08/2026 02:22:31 | INFO | Robô Agendamento | #494539 salvo | Executado | 11/08/2026 09:00
+17/08/2026 02:22:32 | INFO | Robô Agendamento | [185/268] NOVO #494548
+17/08/2026 02:22:33 | INFO | Robô Agendamento | #494548 salvo | Executado | 11/08/2026 09:00
+17/08/2026 02:22:33 | INFO | Robô Agendamento | [186/268] NOVO #494702
+17/08/2026 02:22:35 | INFO | Robô Agendamento | #494702 salvo | Executado | 11/08/2026 09:30
+17/08/2026 02:22:35 | INFO | Robô Agendamento | [187/268] NOVO #493416
+17/08/2026 02:22:37 | INFO | Robô Agendamento | #493416 salvo | Executado | 11/08/2026 10:00
+17/08/2026 02:22:37 | INFO | Robô Agendamento | [188/268] NOVO #494871
+17/08/2026 02:22:39 | INFO | Robô Agendamento | #494871 salvo | Executado | 11/08/2026 10:00
+17/08/2026 02:22:39 | INFO | Robô Agendamento | [189/268] NOVO #492907
+17/08/2026 02:22:41 | INFO | Robô Agendamento | #492907 salvo | Executado | 11/08/2026 10:00
+17/08/2026 02:22:41 | INFO | Robô Agendamento | [190/268] NOVO #493449
+17/08/2026 02:22:43 | INFO | Robô Agendamento | #493449 salvo | Executado | 11/08/2026 10:00
+17/08/2026 02:22:43 | INFO | Robô Agendamento | [191/268] NOVO #494877
+17/08/2026 02:22:45 | INFO | Robô Agendamento | #494877 salvo | Executado | 11/08/2026 15:00
+17/08/2026 02:22:46 | INFO | Robô Agendamento | [192/268] NOVO #495096
+17/08/2026 02:22:47 | INFO | Robô Agendamento | #495096 salvo | Executado | 11/08/2026 15:00
+17/08/2026 02:22:48 | INFO | Robô Agendamento | [193/268] NOVO #495193
+17/08/2026 02:22:49 | INFO | Robô Agendamento | #495193 salvo | Executado | 11/08/2026 15:00
+17/08/2026 02:22:49 | INFO | Robô Agendamento | [194/268] NOVO #493239
+17/08/2026 02:22:51 | INFO | Robô Agendamento | #493239 salvo | Executado | 11/08/2026 15:00
+17/08/2026 02:22:51 | INFO | Robô Agendamento | [195/268] NOVO #490784
+17/08/2026 02:22:52 | INFO | Robô Agendamento | #490784 salvo | Executado | 11/08/2026 16:00
+17/08/2026 02:22:52 | INFO | Robô Agendamento | [196/268] NOVO #494544
+17/08/2026 02:22:53 | INFO | Robô Agendamento | #494544 salvo | Executado | 11/08/2026 16:00
+17/08/2026 02:22:53 | INFO | Robô Agendamento | [197/268] NOVO #494669
+17/08/2026 02:22:54 | INFO | Robô Agendamento | #494669 salvo | Cancelado Sem Contato | 11/08/2026 16:00
+17/08/2026 02:22:54 | INFO | Robô Agendamento | [198/268] NOVO #495117
+17/08/2026 02:22:55 | INFO | Robô Agendamento | #495117 salvo | Executado | 11/08/2026 16:00
+17/08/2026 02:22:55 | INFO | Robô Agendamento | [199/268] NOVO #494662
+17/08/2026 02:22:56 | INFO | Robô Agendamento | #494662 salvo | Executado | 11/08/2026 16:30
+17/08/2026 02:22:56 | INFO | Robô Agendamento | [200/268] NOVO #490847
+17/08/2026 02:22:57 | INFO | Robô Agendamento | #490847 salvo | Cancelado Sem Contato | 12/08/2026 08:00
+17/08/2026 02:22:57 | INFO | Robô Agendamento | [201/268] NOVO #494781
+17/08/2026 02:22:59 | INFO | Robô Agendamento | #494781 salvo | Executado | 12/08/2026 08:00
+17/08/2026 02:22:59 | INFO | Robô Agendamento | [202/268] NOVO #495508
+17/08/2026 02:23:01 | INFO | Robô Agendamento | #495508 salvo | Cancelado Sem Contato | 12/08/2026 09:00
+17/08/2026 02:23:01 | INFO | Robô Agendamento | [203/268] NOVO #494909
+17/08/2026 02:23:03 | INFO | Robô Agendamento | #494909 salvo | Executado | 12/08/2026 09:00
+17/08/2026 02:23:03 | INFO | Robô Agendamento | [204/268] NOVO #493510
+17/08/2026 02:23:05 | INFO | Robô Agendamento | #493510 salvo | Cancelado Sem Contato | 12/08/2026 10:00
+17/08/2026 02:23:06 | INFO | Robô Agendamento | [205/268] NOVO #495682
+17/08/2026 02:23:07 | INFO | Robô Agendamento | #495682 salvo | Executado | 12/08/2026 10:00
+17/08/2026 02:23:08 | INFO | Robô Agendamento | [206/268] NOVO #495247
+17/08/2026 02:23:10 | INFO | Robô Agendamento | #495247 salvo | Executado | 12/08/2026 10:00
+17/08/2026 02:23:10 | INFO | Robô Agendamento | [207/268] NOVO #495721
+17/08/2026 02:23:12 | INFO | Robô Agendamento | #495721 salvo | Executado | 12/08/2026 15:00
+17/08/2026 02:23:12 | INFO | Robô Agendamento | [208/268] NOVO #491734
+17/08/2026 02:23:13 | INFO | Robô Agendamento | #491734 salvo | Agendado | 12/08/2026 15:00
+17/08/2026 02:23:13 | INFO | Robô Agendamento | [209/268] NOVO #491985
+17/08/2026 02:23:15 | INFO | Robô Agendamento | #491985 salvo | Agendado | 12/08/2026 15:00
+17/08/2026 02:23:15 | INFO | Robô Agendamento | [210/268] NOVO #495375
+17/08/2026 02:23:17 | INFO | Robô Agendamento | #495375 salvo | Agendado | 12/08/2026 15:00
+17/08/2026 02:23:17 | INFO | Robô Agendamento | [211/268] NOVO #495376
+17/08/2026 02:23:19 | INFO | Robô Agendamento | #495376 salvo | Executado | 12/08/2026 15:00
+17/08/2026 02:23:19 | INFO | Robô Agendamento | [212/268] NOVO #491759
+17/08/2026 02:23:21 | INFO | Robô Agendamento | #491759 salvo | Agendado | 12/08/2026 16:00
+17/08/2026 02:23:21 | INFO | Robô Agendamento | [213/268] NOVO #495886
+17/08/2026 02:23:22 | INFO | Robô Agendamento | #495886 salvo | Agendado | 12/08/2026 16:00
+17/08/2026 02:23:23 | INFO | Robô Agendamento | [214/268] NOVO #495207
+17/08/2026 02:23:23 | INFO | Robô Agendamento | #495207 salvo | Executado | 12/08/2026 16:00
+17/08/2026 02:23:24 | INFO | Robô Agendamento | [215/268] NOVO #495713
+17/08/2026 02:23:24 | INFO | Robô Agendamento | #495713 salvo | Cancelado Cliente | 12/08/2026 16:00
+17/08/2026 02:23:25 | INFO | Robô Agendamento | [216/268] NOVO #495917
+17/08/2026 02:23:25 | INFO | Robô Agendamento | #495917 salvo | Executado | 12/08/2026 16:00
+17/08/2026 02:23:26 | INFO | Robô Agendamento | [217/268] NOVO #496068
+17/08/2026 02:23:26 | INFO | Robô Agendamento | #496068 salvo | Executado | 12/08/2026 16:00
+17/08/2026 02:23:27 | INFO | Robô Agendamento | [218/268] NOVO #495398
+17/08/2026 02:23:27 | INFO | Robô Agendamento | #495398 salvo | Executado | 13/08/2026 08:30
+17/08/2026 02:23:28 | INFO | Robô Agendamento | [219/268] NOVO #495922
+17/08/2026 02:23:30 | INFO | Robô Agendamento | #495922 salvo | Executado | 13/08/2026 09:00
+17/08/2026 02:23:30 | INFO | Robô Agendamento | [220/268] NOVO #493404
+17/08/2026 02:23:32 | INFO | Robô Agendamento | #493404 salvo | Executado | 13/08/2026 09:00
+17/08/2026 02:23:32 | INFO | Robô Agendamento | [221/268] NOVO #495415
+17/08/2026 02:23:34 | INFO | Robô Agendamento | #495415 salvo | Executado | 13/08/2026 09:00
+17/08/2026 02:23:34 | INFO | Robô Agendamento | [222/268] NOVO #495715
+17/08/2026 02:23:36 | INFO | Robô Agendamento | #495715 salvo | Executado | 13/08/2026 09:00
+17/08/2026 02:23:36 | INFO | Robô Agendamento | [223/268] NOVO #490754
+17/08/2026 02:23:38 | INFO | Robô Agendamento | #490754 salvo | Executado | 13/08/2026 10:00
+17/08/2026 02:23:38 | INFO | Robô Agendamento | [224/268] NOVO #495728
+17/08/2026 02:23:40 | INFO | Robô Agendamento | #495728 salvo | Agendado | 13/08/2026 10:00
+17/08/2026 02:23:40 | INFO | Robô Agendamento | [225/268] NOVO #495837
+17/08/2026 02:23:42 | INFO | Robô Agendamento | #495837 salvo | Executado | 13/08/2026 10:00
+17/08/2026 02:23:43 | INFO | Robô Agendamento | [226/268] NOVO #496455
+17/08/2026 02:23:44 | INFO | Robô Agendamento | #496455 salvo | Executado | 13/08/2026 10:00
+17/08/2026 02:23:45 | INFO | Robô Agendamento | [227/268] NOVO #494608
+17/08/2026 02:23:47 | INFO | Robô Agendamento | #494608 salvo | Executado | 13/08/2026 15:00
+17/08/2026 02:23:47 | INFO | Robô Agendamento | [228/268] NOVO #495985
+17/08/2026 02:23:49 | INFO | Robô Agendamento | #495985 salvo | Em Execução | 13/08/2026 15:00
+17/08/2026 02:23:49 | INFO | Robô Agendamento | [229/268] NOVO #496229
+17/08/2026 02:23:51 | INFO | Robô Agendamento | #496229 salvo | Executado | 13/08/2026 15:30
+17/08/2026 02:23:51 | INFO | Robô Agendamento | [230/268] NOVO #496102
+17/08/2026 02:23:52 | INFO | Robô Agendamento | #496102 salvo | Agendado | 13/08/2026 15:30
+17/08/2026 02:23:52 | INFO | Robô Agendamento | [231/268] NOVO #495932
+17/08/2026 02:23:54 | INFO | Robô Agendamento | #495932 salvo | Executado | 13/08/2026 16:00
+17/08/2026 02:23:54 | INFO | Robô Agendamento | [232/268] NOVO #496099
+17/08/2026 02:23:54 | INFO | Robô Agendamento | #496099 salvo | Agendado | 13/08/2026 16:00
+17/08/2026 02:23:55 | INFO | Robô Agendamento | [233/268] NOVO #496155
+17/08/2026 02:23:55 | INFO | Robô Agendamento | #496155 salvo | Executado | 13/08/2026 16:00
+17/08/2026 02:23:56 | INFO | Robô Agendamento | [234/268] NOVO #496681
+17/08/2026 02:23:56 | INFO | Robô Agendamento | #496681 salvo | Executado | 13/08/2026 16:00
+17/08/2026 02:23:57 | INFO | Robô Agendamento | [235/268] NOVO #495530
+17/08/2026 02:23:59 | INFO | Robô Agendamento | #495530 salvo | Executado | 14/08/2026 09:30
+17/08/2026 02:23:59 | INFO | Robô Agendamento | [236/268] NOVO #496594
+17/08/2026 02:24:00 | INFO | Robô Agendamento | #496594 salvo | Agendado | 17/08/2026 08:00
+17/08/2026 02:24:00 | INFO | Robô Agendamento | [237/268] NOVO #496785
+17/08/2026 02:24:01 | INFO | Robô Agendamento | #496785 salvo | Agendado | 17/08/2026 08:00
+17/08/2026 02:24:01 | INFO | Robô Agendamento | [238/268] NOVO #497130
+17/08/2026 02:24:02 | INFO | Robô Agendamento | #497130 salvo | Agendado | 17/08/2026 08:00
+17/08/2026 02:24:02 | INFO | Robô Agendamento | [239/268] NOVO #496804
+17/08/2026 02:24:03 | INFO | Robô Agendamento | #496804 salvo | Agendado | 17/08/2026 09:00
+17/08/2026 02:24:03 | INFO | Robô Agendamento | [240/268] NOVO #495701
+17/08/2026 02:24:04 | INFO | Robô Agendamento | #495701 salvo | Agendado | 17/08/2026 09:00
+17/08/2026 02:24:04 | INFO | Robô Agendamento | [241/268] NOVO #496929
+17/08/2026 02:24:05 | INFO | Robô Agendamento | #496929 salvo | Agendado | 17/08/2026 09:00
+17/08/2026 02:24:05 | INFO | Robô Agendamento | [242/268] NOVO #497760
+17/08/2026 02:24:06 | INFO | Robô Agendamento | #497760 salvo | Agendado | 17/08/2026 09:00
+17/08/2026 02:24:06 | INFO | Robô Agendamento | [243/268] NOVO #497164
+17/08/2026 02:24:07 | INFO | Robô Agendamento | #497164 salvo | Agendado | 17/08/2026 09:30
+17/08/2026 02:24:07 | INFO | Robô Agendamento | [244/268] NOVO #497079
+17/08/2026 02:24:08 | INFO | Robô Agendamento | #497079 salvo | Agendado | 17/08/2026 09:30
+17/08/2026 02:24:08 | INFO | Robô Agendamento | [245/268] NOVO #496724
+17/08/2026 02:24:09 | INFO | Robô Agendamento | #496724 salvo | Agendado | 17/08/2026 10:00
+17/08/2026 02:24:09 | INFO | Robô Agendamento | [246/268] NOVO #495074
+17/08/2026 02:24:10 | INFO | Robô Agendamento | #495074 salvo | Agendado | 17/08/2026 10:00
+17/08/2026 02:24:10 | INFO | Robô Agendamento | [247/268] NOVO #496630
+17/08/2026 02:24:11 | INFO | Robô Agendamento | #496630 salvo | Agendado | 17/08/2026 10:00
+17/08/2026 02:24:11 | INFO | Robô Agendamento | [248/268] NOVO #498159
+17/08/2026 02:24:12 | INFO | Robô Agendamento | #498159 salvo | Agendado | 17/08/2026 10:00
+17/08/2026 02:24:12 | INFO | Robô Agendamento | [249/268] NOVO #494528
+17/08/2026 02:24:13 | INFO | Robô Agendamento | #494528 salvo | Agendado | 17/08/2026 15:00
+17/08/2026 02:24:13 | INFO | Robô Agendamento | [250/268] NOVO #496727
+17/08/2026 02:24:14 | INFO | Robô Agendamento | #496727 salvo | Agendado | 17/08/2026 15:00
+17/08/2026 02:24:14 | INFO | Robô Agendamento | [251/268] NOVO #496910
+17/08/2026 02:24:15 | INFO | Robô Agendamento | #496910 salvo | Agendado | 17/08/2026 15:00
+17/08/2026 02:24:15 | INFO | Robô Agendamento | [252/268] NOVO #495168
+17/08/2026 02:24:16 | INFO | Robô Agendamento | #495168 salvo | Agendado | 17/08/2026 15:00
+17/08/2026 02:24:16 | INFO | Robô Agendamento | [253/268] NOVO #494532
+17/08/2026 02:24:17 | INFO | Robô Agendamento | #494532 salvo | Agendado | 17/08/2026 16:00
+17/08/2026 02:24:17 | INFO | Robô Agendamento | [254/268] NOVO #497391
+17/08/2026 02:24:18 | INFO | Robô Agendamento | #497391 salvo | Agendado | 17/08/2026 16:00
+17/08/2026 02:24:18 | INFO | Robô Agendamento | [255/268] NOVO #495413
+17/08/2026 02:24:19 | INFO | Robô Agendamento | #495413 salvo | Agendado | 18/08/2026 08:00
+17/08/2026 02:24:19 | INFO | Robô Agendamento | [256/268] NOVO #496857
+17/08/2026 02:24:20 | INFO | Robô Agendamento | #496857 salvo | Agendado | 18/08/2026 08:30
+17/08/2026 02:24:20 | INFO | Robô Agendamento | [257/268] NOVO #497422
+17/08/2026 02:24:21 | INFO | Robô Agendamento | #497422 salvo | Agendado | 18/08/2026 09:00
+17/08/2026 02:24:21 | INFO | Robô Agendamento | [258/268] NOVO #497441
+17/08/2026 02:24:22 | INFO | Robô Agendamento | #497441 salvo | Agendado | 18/08/2026 09:00
+17/08/2026 02:24:22 | INFO | Robô Agendamento | [259/268] NOVO #497590
+17/08/2026 02:24:23 | INFO | Robô Agendamento | #497590 salvo | Agendado | 18/08/2026 09:30
+17/08/2026 02:24:23 | INFO | Robô Agendamento | [260/268] NOVO #496839
+17/08/2026 02:24:24 | INFO | Robô Agendamento | #496839 salvo | Agendado | 18/08/2026 10:00
+17/08/2026 02:24:25 | INFO | Robô Agendamento | [261/268] NOVO #497142
+17/08/2026 02:24:25 | INFO | Robô Agendamento | #497142 salvo | Agendado | 18/08/2026 10:00
+17/08/2026 02:24:25 | INFO | Robô Agendamento | [262/268] NOVO #497599
+17/08/2026 02:24:26 | INFO | Robô Agendamento | #497599 salvo | Agendado | 18/08/2026 10:30
+17/08/2026 02:24:27 | INFO | Robô Agendamento | [263/268] NOVO #497293
+17/08/2026 02:24:27 | INFO | Robô Agendamento | #497293 salvo | Agendado | 18/08/2026 15:00
+17/08/2026 02:24:27 | INFO | Robô Agendamento | [264/268] NOVO #496900
+17/08/2026 02:24:28 | INFO | Robô Agendamento | #496900 salvo | Agendado | 18/08/2026 16:00
+17/08/2026 02:24:29 | INFO | Robô Agendamento | [265/268] NOVO #497248
+17/08/2026 02:24:29 | INFO | Robô Agendamento | #497248 salvo | Agendado | 19/08/2026 08:30
+17/08/2026 02:24:30 | INFO | Robô Agendamento | [266/268] NOVO #497352
+17/08/2026 02:24:30 | INFO | Robô Agendamento | #497352 salvo | Agendado | 19/08/2026 09:00
+17/08/2026 02:24:31 | INFO | Robô Agendamento | [267/268] NOVO #496088
+17/08/2026 02:24:31 | INFO | Robô Agendamento | #496088 salvo | Agendado | 20/08/2026 16:00
+17/08/2026 02:24:32 | INFO | Robô Agendamento | [268/268] NOVO #496818
+17/08/2026 02:24:32 | INFO | Robô Agendamento | #496818 salvo | Agendado | 25/08/2026 08:30
+17/08/2026 02:24:33 | INFO | Robô Agendamento | Sincronização concluída | Total: 268 | Atualizados: 268 | Novos: 268 | Alterados: 0 | Cache: 0 | Erros: 0
+17/08/2026 02:24:36 | INFO | GCOM Engine encerrado.
+17/08/2026 02:24:40 | INFO | GCOM Engine iniciado.
+17/08/2026 02:24:41 | INFO | Iniciando navegador do Portal GCOM.
+17/08/2026 02:24:41 | INFO | Cookie PHPSESSID restaurado no Portal GCOM.
+17/08/2026 02:26:35 | INFO | Iniciando navegador do Portal GCOM.
+17/08/2026 02:26:35 | INFO | Cookie PHPSESSID restaurado no Portal GCOM.
+17/08/2026 02:27:25 | INFO | Iniciando navegador do Portal GCOM.
+17/08/2026 02:27:26 | INFO | Cookie PHPSESSID restaurado no Portal GCOM.
+17/08/2026 02:27:32 | INFO | Encerrando GCOM Engine.
+17/08/2026 02:27:32 | INFO | GCOM Engine encerrado.
+17/08/2026 08:45:43 | INFO | GCOM Engine iniciado.
+17/08/2026 08:45:44 | INFO | Iniciando navegador do Portal GCOM.
+17/08/2026 08:45:44 | INFO | Playwright Browsers: c:\Users\cesar\Documents\Meus Projetos\GCOMEngine - LoginVersion\pw-browsers
+17/08/2026 08:45:48 | INFO | Cookies ativos no contexto: ['PHPSESSID']
+17/08/2026 08:54:02 | INFO | Encerrando GCOM Engine.
+17/08/2026 08:54:02 | INFO | GCOM Engine encerrado.
+17/08/2026 09:12:24 | INFO | GCOM Engine iniciado.
+17/08/2026 09:12:25 | INFO | Iniciando navegador do Portal GCOM.
+17/08/2026 09:12:25 | INFO | Playwright Browsers: c:\Users\cesar\Documents\Meus Projetos\GCOMEngine - LoginVersion\pw-browsers
+17/08/2026 09:12:25 | INFO | Cookies ativos no contexto: ['PHPSESSID']
+17/08/2026 09:24:08 | INFO | Encerrando GCOM Engine.
+17/08/2026 09:24:08 | INFO | GCOM Engine encerrado.
+17/08/2026 09:24:13 | INFO | GCOM Engine iniciado.
+17/08/2026 09:24:14 | INFO | Iniciando navegador do Portal GCOM.
+17/08/2026 09:24:14 | INFO | Playwright Browsers: c:\Users\cesar\Documents\Meus Projetos\GCOMEngine - LoginVersion\pw-browsers
+17/08/2026 09:24:14 | INFO | Cookies ativos no contexto: ['PHPSESSID']
+17/08/2026 09:24:44 | INFO | Iniciando navegador do Portal GCOM.
+17/08/2026 09:24:44 | INFO | Playwright Browsers: c:\Users\cesar\Documents\Meus Projetos\GCOMEngine - LoginVersion\pw-browsers
+17/08/2026 09:24:45 | INFO | Cookies ativos no contexto: ['PHPSESSID']
+17/08/2026 09:45:03 | INFO | Encerrando GCOM Engine.
+17/08/2026 09:45:04 | INFO | GCOM Engine encerrado.
+17/08/2026 09:45:08 | INFO | GCOM Engine iniciado.
+17/08/2026 09:45:09 | INFO | Iniciando navegador do Portal GCOM.
+17/08/2026 09:45:09 | INFO | Playwright Browsers: c:\Users\cesar\Documents\Meus Projetos\GCOMEngine - LoginVersion\pw-browsers
+17/08/2026 09:45:09 | INFO | Cookies ativos no contexto: ['PHPSESSID']
+17/08/2026 09:45:47 | INFO | Iniciando navegador do Portal GCOM.
+17/08/2026 09:45:47 | INFO | Playwright Browsers: c:\Users\cesar\Documents\Meus Projetos\GCOMEngine - LoginVersion\pw-browsers
+17/08/2026 09:45:47 | INFO | Cookies ativos no contexto: ['PHPSESSID']
+17/08/2026 09:45:49 | ERROR | Robô Agendamento | Sessão expirada.
+17/08/2026 09:45:49 | ERROR | Agenda | Atualizar agenda | Não foi possível abrir a agenda.
+17/08/2026 09:45:54 | INFO | Iniciando navegador do Portal GCOM.
+17/08/2026 09:45:54 | INFO | Playwright Browsers: c:\Users\cesar\Documents\Meus Projetos\GCOMEngine - LoginVersion\pw-browsers
+17/08/2026 09:46:08 | INFO | Iniciando navegador do Portal GCOM.
+17/08/2026 09:46:08 | INFO | Playwright Browsers: c:\Users\cesar\Documents\Meus Projetos\GCOMEngine - LoginVersion\pw-browsers
+17/08/2026 09:46:11 | INFO | Cookies ativos no contexto: ['PHPSESSID']
+17/08/2026 09:46:46 | INFO | Sessão do Portal GCOM salva.
+17/08/2026 09:46:46 | INFO | Status da sessão Portal GCOM: CONNECTED
+17/08/2026 09:47:17 | INFO | Iniciando navegador do Portal GCOM.
+17/08/2026 09:47:17 | INFO | Playwright Browsers: c:\Users\cesar\Documents\Meus Projetos\GCOMEngine - LoginVersion\pw-browsers
+17/08/2026 09:47:47 | INFO | Sessão do Portal GCOM salva.
+17/08/2026 09:47:47 | INFO | Status da sessão Portal GCOM: CONNECTED
+17/08/2026 09:47:54 | INFO | Iniciando navegador do Portal GCOM.
+17/08/2026 09:47:54 | INFO | Playwright Browsers: c:\Users\cesar\Documents\Meus Projetos\GCOMEngine - LoginVersion\pw-browsers
+17/08/2026 09:47:55 | INFO | Cookies ativos no contexto: ['PHPSESSID']
+17/08/2026 09:47:56 | INFO | Robô Agendamento | Agenda aberta.
+17/08/2026 09:47:56 | INFO | Robô Agendamento | 270 eventos encontrados.
+17/08/2026 09:47:56 | INFO | Robô Agendamento | Iniciando sincronização de 270 eventos.
+17/08/2026 09:47:56 | INFO | Robô Agendamento | 268 chamados já existem no cache.
+17/08/2026 09:47:56 | INFO | Robô Agendamento | Fase 1/2 | Comparando calendário com cache...
+17/08/2026 09:47:56 | INFO | Robô Agendamento | Comparados 50/270 eventos.
+17/08/2026 09:47:56 | INFO | Robô Agendamento | Comparados 100/270 eventos.
+17/08/2026 09:47:56 | INFO | Robô Agendamento | Comparados 150/270 eventos.
+17/08/2026 09:47:57 | INFO | Robô Agendamento | Comparados 200/270 eventos.
+17/08/2026 09:47:57 | INFO | Robô Agendamento | Comparados 250/270 eventos.
+17/08/2026 09:47:57 | INFO | Robô Agendamento | Comparados 270/270 eventos.
+17/08/2026 09:47:57 | INFO | Robô Agendamento | Comparação concluída | Novos: 2 | Alterados: 0 | Cache: 268
+17/08/2026 09:47:57 | INFO | Robô Agendamento | Fase 2/2 | Lendo detalhes de 2 evento(s)...
+17/08/2026 09:47:57 | INFO | Robô Agendamento | [1/2] NOVO #498321
+17/08/2026 09:47:57 | INFO | Robô Agendamento | #498321 salvo | Agendado | 18/08/2026 09:00
+17/08/2026 09:47:57 | INFO | Robô Agendamento | [2/2] NOVO #498308
+17/08/2026 09:47:58 | INFO | Robô Agendamento | #498308 salvo | Agendado | 19/08/2026 16:00
+17/08/2026 09:47:59 | INFO | Robô Agendamento | Sincronização concluída | Total: 270 | Atualizados: 2 | Novos: 2 | Alterados: 0 | Cache: 268 | Erros: 0
+17/08/2026 09:48:06 | INFO | Encerrando GCOM Engine.
+17/08/2026 09:48:06 | INFO | GCOM Engine encerrado.
+17/08/2026 12:38:22 | INFO | GCOM Engine iniciado.
+17/08/2026 12:38:23 | INFO | Iniciando navegador do Portal GCOM.
+17/08/2026 12:38:23 | INFO | Playwright Browsers: c:\Users\cesar\Documents\Meus Projetos\GCOMEngine - LoginVersion\pw-browsers
+17/08/2026 12:38:24 | INFO | Cookies ativos no contexto: ['PHPSESSID']
+17/08/2026 12:38:43 | INFO | Encerrando GCOM Engine.
+17/08/2026 12:38:43 | INFO | GCOM Engine encerrado.

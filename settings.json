@@ -1,0 +1,6 @@
+{
+    "sincronizacao": {
+        "totens_segundos": 600,
+        "agenda_segundos": 300
+    }
+}

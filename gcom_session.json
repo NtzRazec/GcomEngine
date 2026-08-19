@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "PHPSESSID",
+      "value": "df481abd1164e31c7c023d292f6decea",
+      "domain": "suporte.gcom.com.br",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://suporte.gcom.com.br",
+      "localStorage": [
+        {
+          "name": "portalTheme",
+          "value": "light"
+        }
+      ]
+    }
+  ]
+}

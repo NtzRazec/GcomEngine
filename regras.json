@@ -1,0 +1,21 @@
+{
+    "agendamento": {
+        "dias_semana": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "horarios": [
+            "08:00",
+            "09:00",
+            "10:00",
+            "15:00",
+            "16:00"
+        ]
+    },
+    "capacidade": {
+        "ate_30_minutos": 4,
+        "acima_30_minutos": 3
+    }
+}
